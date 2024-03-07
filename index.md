@@ -3,10 +3,12 @@
 - +1 (204) 960-8053
 - arcinasl@myumanitoba.ca
 - https://www.linkedin.com/in/lyle-arcinas/
+
 # TECHNICAL SKILLS
 - **Familiar with**: C#, Java, JavaScript, React, HTML, CSS, Git, Microsoft Windows, Unix, Visual Studio Code
 - **Course experience**: C, C++, Python, Bash
-- **Practical experience**: Vue, Cypress, GDScript, Microsoft Sentinel, Trend Vision One, Microsoft Power Platform, PowerShell, Bash, Vim, Godot, JD Edwards, Microsoft Word, Adobe Photoshop, Adobe Premiere 
+- **Practical experience**: Vue, Cypress, GDScript, Microsoft Sentinel, Trend Vision One, Microsoft Power Platform, PowerShell, Bash, Vim, Godot, JD Edwards, Microsoft Word, Adobe Photoshop, Adobe Premiere
+
 # WORK EXPERIENCE
 ## Junior Developer, Agriculture and Agri-Food Canada			
 **Jan. 2024 - present**
