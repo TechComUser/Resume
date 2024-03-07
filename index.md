@@ -1,8 +1,8 @@
 # Lyle Arcinas
 
-+1 (204) 960-8053
-arcinasl@myumanitoba.ca
-https://www.linkedin.com/in/lyle-arcinas/
+- +1 (204) 960-8053
+- arcinasl@myumanitoba.ca
+- https://www.linkedin.com/in/lyle-arcinas/
 # TECHNICAL SKILLS
 - **Familiar with**: C#, Java, JavaScript, React, HTML, CSS, Git, Microsoft Windows, Unix, Visual Studio Code
 - **Course experience**: C, C++, Python, Bash
