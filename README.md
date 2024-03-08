@@ -1,6 +1,6 @@
 # Purpose
 This readme will explain how to host a website on GitHub Pages for the purpose of technical documentation so you can build a website like this:
-![][https://github.com/TechComUser/TechComUser.github.io/blob/main/2024-03-07-21-31-59.gif?raw=true]
+![](https://github.com/TechComUser/TechComUser.github.io/blob/main/2024-03-07-21-31-59.gif?raw=true)
 All in just a few minutes! GitHub Pages allows you to host a lightweight website, for free. All it takes is a GitHub account and just a little bit of knowledge. Setting up a website usually takes a lot of effort and technical know-how; GitHub Pages sites can be up in a matter of minutes.
 # Prerequisites
 - A free [GitHub](https://github.com/) account
@@ -18,7 +18,7 @@ We will begin by creating a repository for our website. This is where we will pl
 5. Make sure "Add a README file" is unchecked, as it will create an unneeded file for this purpose.
 6. Set your repository to public. This is needed for your site to be visible. Your page should look like this.
 
-![[Pasted image 20240307234550.png]]
+![](https://github.com/TechComUser/TechComUser.github.io/blob/main/Pasted%20image%2020240307234550.png?raw=true)
 
 5. Click "Create repository" at the bottom of the page. You will be taken to a new page. This is where the code for our site will live. This is the value of using GitHub: it gives us a place to store our files outside of our machine. Using a site like GitHub allows us to utilize *distributed version control*. Etter recommends using services like GitHub for technical documentation because they perform well, allow you to work on files without internet access, and allow multiple people to work on the same file. For our purposes, GitHub allows us to work on our website without needing to install any additional software.
 
@@ -26,23 +26,23 @@ We will begin by creating a repository for our website. This is where we will pl
 We will now create our website's home page.
 
 1. On your repo's landing page, click on the link "creating a new file" within the blue section labeled "Quick setup". Your page should look like this:
-![[Pasted image 20240307234700.png]]
+![](https://github.com/TechComUser/TechComUser.github.io/assets/162639629/adac5c8b-5261-427c-81f2-c0bd7fe37518)
 2. Name your file. At the top of the page, enter "index.md". This will become the first page of our new website. It is very important that you name it correctly, as otherwise your site will not have a first page.
 3. Create your content! Your site will be written based on Markdown, which a lightweight markup language. Etter recommends using such a language because they are human-readable - anyone without technical experience can read and understand a Markdown file just fine. For more documentation, check out the link in "More Resources". These instructions assume you already have a resume or similar content formatted in Markdown. In any case, your page should look somewhat like this:
-![[Pasted image 20240307235058.png]]
+![](https://github.com/TechComUser/TechComUser.github.io/assets/162639629/4c98730c-ad1e-4df9-9e4d-93afa5f24b2b)
 5. Commit your changes. "Commit" in this context is similar to the word "Save" in Word. It is called a commit because we are working with a distributed version control system, which basically means we enter information about this change or even roll it back in the future if we wish. 
 6. Click "Commit changes..." at the top-right of the page.
 7. Enter a short description of your changes in the "Commit message" textbox, or optionally, a longer one. It should look like this:
-![[Pasted image 20240307235330.png]]
+![](https://github.com/TechComUser/TechComUser.github.io/assets/162639629/4e60f718-1c29-4763-b1b9-032ee3135614)
 
 ## Step 3. Push to GitHub and enable Pages
 We will now need to publish our site and make it available for public view.
 
 1. Click on "Settings" on the top banner.
 2. Go to "Pages", located in the sidebar of the Settings page, under the heading "Code and automation". You will be taken to this screen:
-![[Pasted image 20240308001248.png]]
+![Pasted image 20240308001248](https://github.com/TechComUser/TechComUser.github.io/assets/162639629/64bcc155-f640-43ba-87e2-08196ad10d54)
 3. Click the button labeled "None" under the "Branch" heading. A dropdown should appear. 
-![[Pasted image 20240308001411.png]]
+![Pasted image 20240308001411](https://github.com/TechComUser/TechComUser.github.io/assets/162639629/21ccdf5b-0cc3-4ba7-af01-a89ff37c1354)
 4. Click "main".
 5. Click "Save". At the top, it will say "GitHub Pages source saved." Your website is now being deployed. 
 6. Wait on this screen as it may take up to a minute.
