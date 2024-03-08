@@ -1,6 +1,6 @@
 # Purpose
 This readme will explain how to host a website on GitHub Pages for the purpose of technical documentation so you can build a website like this:
-![][2024-03-07-21-31-59.gif]
+![][https://github.com/TechComUser/TechComUser.github.io/blob/main/2024-03-07-21-31-59.gif?raw=true]
 All in just a few minutes! GitHub Pages allows you to host a lightweight website, for free. All it takes is a GitHub account and just a little bit of knowledge. Setting up a website usually takes a lot of effort and technical know-how; GitHub Pages sites can be up in a matter of minutes.
 # Prerequisites
 - A free [GitHub](https://github.com/) account
